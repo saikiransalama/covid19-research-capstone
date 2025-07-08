@@ -1,0 +1,26 @@
+# macOS system files
+.DS_Store
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# VSCode settings
+.vscode/
+
+# Large data files (optional, comment out if you want to track all CSVs)
+# *.csv
+
+# Other system files
+*.swp
+*.swo
+
+# Anaconda/virtual envs
+.env/
+.venv/
+
+# Ignore hidden files
+.* 
