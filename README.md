@@ -6,11 +6,9 @@ This project investigates trends in undergraduate enrollment across U.S. college
 
 ## Repository Contents
 
-- **Project Work.ipynb**: Main Jupyter notebook containing data cleaning, merging, analysis, and visualization.
+- **Codebase.ipynb**: Main Jupyter notebook containing data cleaning, merging, analysis, and visualization.
 - **cleaned_data.csv**: Final cleaned dataset used for analysis.
-- **ssrn-5222094.pdf**: Published version of the research paper.
-- **Reserach Paper.pdf**: Full research paper draft.
-- **Proposal.pdf**: Project proposal outlining objectives and methodology.
+- **Research Paper.pdf**: Published research paper with complete analysis and findings.
 
 ## Research Questions
 
@@ -37,15 +35,15 @@ This project investigates trends in undergraduate enrollment across U.S. college
 
 ## How to Use
 
-1. Open `Project Work.ipynb` in Jupyter Notebook or JupyterLab.
+1. Open `Codebase.ipynb` in Jupyter Notebook or JupyterLab.
 2. Run the notebook to reproduce the analysis and visualizations.
-3. Refer to the PDFs for detailed methodology, results, and discussion.
+3. Refer to the Research Paper for detailed methodology, results, and discussion.
 
 ## Citation
 
 If you use this work, please cite the published paper:
 
-- [ssrn-5222094.pdf](ssrn-5222094.pdf)
+- [Research Paper.pdf](Research Paper.pdf)
 
 ---
 
